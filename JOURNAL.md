@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 15h | 5 |
+| Week 2 | Tier 1 | 14.9h | 5 |
 
 ## Contents
 
@@ -108,7 +108,7 @@ I eventually extruded the 5-ship and the 1-ship too.
 
 ### 2026-10-18 – I started checking over all of the ships. I realized that the pyramid ship sadly couldn't be a pyramid because I needed peg holes near the corners. Same goes for the other ships I was going to make fa
 
-**2h**
+**1.9h**
 
 I started checking over all of the ships. I realized that the pyramid ship sadly couldn't be a pyramid because I needed peg holes near the corners. Same goes for the other ships I was going to make fancy. I had to make them all flat.
 
